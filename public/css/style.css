@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    color: white;
+}
+.container{
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.red{
+    background-color: #ff0000;
+}
+.no-mt{
+    margin-top: 0;
+}
+.m-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.d-flex{
+    display: flex;
+}
+.align-items-center{
+    align-items: center;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.text-center{
+    text-align: center;
+}
+
+/*Navbar side*/
+
